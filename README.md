@@ -1,6 +1,8 @@
 # DeliveryProject
 Data Structure and Algorithm project- First experience using Python
 
+The algorithms used to optimize the project were a combination of nearest neighbor and 2-opt.
+
 Delivery algorithm with the following assumptions:
 
 •   Each truck can carry a maximum of 16 packages, and the ID number of each package is unique.
